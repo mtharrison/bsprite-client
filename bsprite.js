@@ -5,7 +5,7 @@
  * @see  https://github.com/mtharrison/bsprite-go
  * @see  https://github.com/mtharrison/bsprite-client
  */
-(function(globals) {
+(function(global) {
   
   "use strict";
 
